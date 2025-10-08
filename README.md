@@ -1,1 +1,2 @@
-# aishkaebannay
+### aishkaebannay
+бот с прикрученной аишкой + токены хуекины
